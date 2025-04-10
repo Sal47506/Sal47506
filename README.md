@@ -46,6 +46,8 @@ I'm a passionate developer, data tinkerer, and all-around code enthusiast who lo
 ### 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-Scala-DC322F?logo=clogoColor=white)
+![Java](https://img.shields.io/badge/-Scala-DC322F?logo=javalogoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
