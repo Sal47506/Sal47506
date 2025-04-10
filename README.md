@@ -16,9 +16,9 @@ I'm a passionate developer, data tinkerer, and all-around code enthusiast who lo
 
 ### 🌱 I’m currently learning:
 - 🏗️ Advanced Graph Algorithms (MIS, clustering, PageRank)
-- 🧬 Deep Learning (LSTM, Transformers for audio & genre fusion)
+- 🧬 Deep Learning and NLP (also a bit of iterative ML)
 - ☁️ Scalable cloud deployments (GCP, Docker)
-- 🧠 Self-supervised models in vision and audio (AST, SpecAugment, etc.)
+- 🧠 Getting my hands dirty and looking into learning networks with C and ARM soon
 
 ---
 
@@ -31,8 +31,8 @@ I'm a passionate developer, data tinkerer, and all-around code enthusiast who lo
 ---
 
 ### 💬 Ask me about:
-- Python, Scala, JavaScript, SQL, Flask, Spark, MongoDB
 - Data pipelines, distributed systems, algorithm design
+- Computational linguistics (still learning the basics of linguistics)
 - How to turn messy ideas into clean, efficient code 🚀
 
 ---
