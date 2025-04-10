@@ -2,7 +2,7 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Sal47506&style=flat-square)
 
-I'm a passionate developer, data tinkerer, and all-around code enthusiast who loves turning ideas into software. Whether it's backend systems, machine learning models, or creative full-stack builds, I'm always excited to learn and ship cool projects!
+I'm a passionate developer, data tinkerer, and all-around code enthusiast who loves turning ideas into software. Whether it's backend systems, machine learning models or creative full-stack builds, I'm always excited to learn and ship cool projects!
 
 ---
 
