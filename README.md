@@ -10,7 +10,6 @@ I'm a passionate developer, data tinkerer, and all-around code enthusiast who lo
 - 🧠 **Large-Scale Data Processing** with Apache Spark (GraphX, RDDs, clustering)
 - 📊 **Data Science + Machine Learning**: Sketch algorithms, genre classification, anomaly detection
 - 🚀 **AI-Powered Portfolio Builder** using Flask + SQL + frontend automation
-- 🧰 Building my own **component-based CSS framework**
 
 ---
 
@@ -18,7 +17,7 @@ I'm a passionate developer, data tinkerer, and all-around code enthusiast who lo
 - 🏗️ Advanced Graph Algorithms (MIS, clustering, PageRank)
 - 🧬 Deep Learning and NLP (also a bit of iterative ML)
 - ☁️ Scalable cloud deployments (GCP, Docker)
-- 🧠 Getting my hands dirty and looking into learning networks with C and ARM soon
+- 🧠 Getting my hands dirty and looking into learning more about networks with C and ARM soon
 
 ---
 
@@ -33,6 +32,7 @@ I'm a passionate developer, data tinkerer, and all-around code enthusiast who lo
 ### 💬 Ask me about:
 - Data pipelines, distributed systems, algorithm design
 - Computational linguistics (still learning the basics of linguistics)
+- Prompt engineering
 - How to turn messy ideas into clean, efficient code 🚀
 
 ---
