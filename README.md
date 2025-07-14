@@ -63,11 +63,6 @@ I'm a passionate developer, data tinkerer, and all-around code enthusiast who lo
 ![Verilog](https://img.shields.io/badge/-Verilog-00457C?style=flat-square)
 ---
 
-### 📈 GitHub Stats
-
-![Sal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sal47506&show_icons=true&theme=tokyonight&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sal47506&layout=compact&theme=tokyonight)
 
 ---
 
