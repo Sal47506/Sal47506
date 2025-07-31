@@ -7,33 +7,8 @@ I'm a passionate developer, data tinkerer, and all-around code enthusiast who lo
 ---
 
 ### 🔭 I’m currently working on:
-- 🧠 **Large-Scale Data Processing** with Apache Spark (GraphX, RDDs, clustering)
-- 📊 **Data Science + Machine Learning**: Sketch algorithms, genre classification, anomaly detection
-- 🚀 **AI-Powered Portfolio Builder** using Flask + SQL + frontend automation
-
----
-
-### 🌱 I’m currently learning:
-- 🏗️ Advanced Graph Algorithms (MIS, clustering, PageRank)
-- 🧬 Deep Learning and NLP (also a bit of iterative ML)
-- ☁️ Scalable cloud deployments (GCP, Docker)
-- 🧠 Getting my hands dirty and looking into learning more about networks with C and ARM soon
-
----
-
-### 👯 I’m looking to collaborate on:
-- 🔊 AI + Music creativity projects
-- 🧪 Research-based systems (ML, distributed computing, NLP)
-- ⚙️ Open-source tools that improve dev workflows
-- 🌐 Anything combining AI, creativity, and code!
-
----
-
-### 💬 Ask me about:
-- Data pipelines, distributed systems, algorithm design
-- Computational linguistics (still learning the basics of linguistics)
-- Prompt engineering
-- How to turn messy ideas into clean, efficient code 🚀
+- 🧠 **Simulation Model** for a labor-time based economy as a URF in collaboration with Prof. Amittai Aviram and Prof. Alex Creiner
+- 📊 **Backend Engineer Intern** for Ophelia
 
 ---
 
@@ -61,16 +36,6 @@ I'm a passionate developer, data tinkerer, and all-around code enthusiast who lo
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-737373?logo=assemblyscript&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-00457C?style=flat-square)
----
-
-
----
-
-### ⚡ Fun Facts
-- 🎵 I love merging AI with music — both in theory and sound
-- 🔄 I believe in readable, reusable code — comments are 🔑
-- 🧘 Weekends are for recovery and recharging (and maybe a little coding 😉)
-
 ---
 
 ⭐Thanks for stopping by⭐
