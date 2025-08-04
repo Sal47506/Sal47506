@@ -14,7 +14,7 @@ I'm a passionate developer, data tinkerer, and all-around code enthusiast who lo
 
 ### 📫 How to reach me:
 - Email: nuhin@bc.edu
-- LinkedIn: [https://www.linkedin.com/in/salamun-n-714193220/]
+- LinkedIn: https://www.linkedin.com/in/salamun-n-714193220/
 
 ---
 
