@@ -22,7 +22,7 @@ I'm a passionate developer, data tinkerer, and all-around code enthusiast who lo
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-A8B9CC?logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-A8B9CC?logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-DC322F?logo=typescript&logoColor=white)
