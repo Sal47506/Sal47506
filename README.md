@@ -1,9 +1,10 @@
 ## 👋 Hi there, I'm Sal! Welcome to my GitHub!
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Sal47506&style=flat-square)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sal47506&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Sal47506&style=flat-square)
 
-![Coding Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW14cWpnNXl3YXNneTlkYjNoMnh0dDUxbzBhcDk1dDdlYm43MTUxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW14cWpnNXl3YXNneTlkYjNoMnh0dDUxbzBhcDk1dDdlYm43MTUxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100%" alt="Coding Banner"/>
+</p>
 
 I'm a passionate developer, data tinkerer, and all-around code enthusiast who loves turning ideas into software. Whether it's backend systems, machine learning models or creative full-stack builds, I'm always excited to learn and ship cool projects!
 
@@ -32,14 +33,6 @@ I'm a passionate developer, data tinkerer, and all-around code enthusiast who lo
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-737373?logo=assemblyscript&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-00457C?style=flat-square)
-
----
-
-### 🏆 GitHub Highlights
-
-![Sal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sal47506&theme=tokyonight&hide_border=true)
-![Sal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sal47506&layout=compact&theme=tokyonight)
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sal47506&theme=tokyonight)
 
 ---
 
