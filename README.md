@@ -3,7 +3,7 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Sal47506&style=flat-square)
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW14cWpnNXl3YXNneTlkYjNoMnh0dDUxbzBhcDk1dDdlYm43MTUxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100%" alt="Coding Banner"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW14cWpnNXl3YXNneTlkYjNoMnh0dDUxbzBhcDk1dDdlYm43MTUxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" height="50%" width="100%" alt="Coding Banner"/>
 </p>
 
 I'm a passionate developer, data tinkerer, and all-around code enthusiast who loves turning ideas into software. Whether it's backend systems, machine learning models or creative full-stack builds, I'm always excited to learn and ship cool projects!
