@@ -12,7 +12,7 @@ I'm a passionate developer, data tinkerer, and all-around code enthusiast who lo
 
 ### 🔭 I’m currently working on:
 - 🧠 **Simulation Model** for a labor-time based economy as a URF in collaboration with Prof. Amittai Aviram and Prof. Alex Creiner  
-- 📊 **Backend Engineer Intern** for Ophelia  
+- 📊 **Backend Engineer** for Ophelia  
 
 ---
 
