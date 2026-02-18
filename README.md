@@ -48,14 +48,6 @@ I'm a passionate developer, data tinkerer, and all-around code enthusiast who lo
 
 ---
 
-### 🏅 GitHub Rank
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sal47506&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github" />
-</p>
-
----
-
 ⭐ Thanks for stopping by! ⭐
 
 
