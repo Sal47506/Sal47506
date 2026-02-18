@@ -35,6 +35,14 @@ I'm a passionate developer, data tinkerer, and all-around code enthusiast who lo
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sal47506&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sal47506&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+
 ⭐ Thanks for stopping by! ⭐
 
 
