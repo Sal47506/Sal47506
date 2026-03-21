@@ -48,7 +48,7 @@ I'm a passionate developer, data tinkerer, and all-around code enthusiast who lo
 </p>
 
 <p align="center">
-  <img src="https://github.com/Sal47506/github-readme-stats&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sal47506&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
