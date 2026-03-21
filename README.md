@@ -47,6 +47,10 @@ I'm a passionate developer, data tinkerer, and all-around code enthusiast who lo
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sal47506&theme=tokyonight&utcOffset=-5"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/Sal47506/github-readme-stats&theme=tokyonight"/>
+</p>
+
 ---
 
 ⭐ Thanks for stopping by! ⭐
